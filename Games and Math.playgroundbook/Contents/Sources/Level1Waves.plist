@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>lane0</string>
+		<key>waves</key>
+		<array>
+			<dict>
+				<key>distanceBetweenSquads</key>
+				<integer>80</integer>
+				<key>squads</key>
+				<array>
+					<string>ZombieSquad</string>
+					<string>ZombieSquad</string>
+					<string>ZombieSquad</string>
+					<string>ZombieSquad</string>
+					<string>ZombieSquad</string>
+					<string>ZombieSquad</string>
+				</array>
+			</dict>
+			<dict>
+				<key>distanceBetweenSquads</key>
+				<integer>120</integer>
+				<key>squads</key>
+				<array>
+					<string>ZombieSquad</string>
+					<string>ZombieSquad</string>
+					<string>ZombieSquad</string>
+				</array>
+			</dict>
+			<dict>
+				<key>distanceBetweenSquads</key>
+				<integer>80</integer>
+				<key>squads</key>
+				<array>
+					<string>ZombieSquad</string>
+					<string>ZombieSquad</string>
+					<string>ZombieSquad</string>
+					<string>ZombieSquad</string>
+					<string>ZombieSquad</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
