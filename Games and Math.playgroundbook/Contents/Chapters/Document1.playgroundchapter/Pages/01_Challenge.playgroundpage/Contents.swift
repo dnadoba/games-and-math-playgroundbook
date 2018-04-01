@@ -10,7 +10,7 @@
  
  After you finished your experiment start with your first challenge.
  
- BTW: You can find the Source Code of this Playgroundbook on Github: https://github.com/dnadoba/games-and-math-playgroundbook
+ BTW: You can find the Source Code of this Playgroundbook on [GitHub](https://github.com/dnadoba/games-and-math-playgroundbook)
  */
 //#-hidden-code
 //#-code-completion(everything, hide)
